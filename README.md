@@ -12,4 +12,4 @@ Im a Beginer of PthreadPool
 */
 ```
 
-🤠: 初学者 同时也在练习 git 的使用 所以就弄个这个练习
+😿初学者 同时也在练习 git 的使用 所以就弄个这个练习
