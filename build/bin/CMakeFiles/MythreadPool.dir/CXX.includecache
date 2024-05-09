@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aiku/projects/mypthread_pool/src/Myfunc.h
+
+/home/aiku/projects/mypthread_pool/src/MythreadPool.cpp
+MythreadPool.h
+/home/aiku/projects/mypthread_pool/src/MythreadPool.h
+Myfunc.h
+/home/aiku/projects/mypthread_pool/src/Myfunc.h
+
+/home/aiku/projects/mypthread_pool/src/MythreadPool.h
+iostream
+-
+Task.h
+/home/aiku/projects/mypthread_pool/src/Task.h
+queue
+-
+cstdlib
+-
+unistd.h
+-
+pthread.h
+-
+
+/home/aiku/projects/mypthread_pool/src/Task.h
+
